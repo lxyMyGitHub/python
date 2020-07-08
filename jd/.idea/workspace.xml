@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9651dd04-f031-42f0-a808-548312c4f890" name="Default Changelist" comment="" />
+    <list default="true" id="9651dd04-f031-42f0-a808-548312c4f890" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jdReptile/helloWC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdReptile/msyh.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdReptile/timg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdReptile/wordCloudOut/有机.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdReptile/wordCloudOut/沛能.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdReptile/wordCloudOut/珍护.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdReptile/wordCloudOut/睿护.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdReptile/wordCloudOut/菁护.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdReptile/wordCloudOut/金领冠系列.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdReptile/wordCloudUtil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdReptile/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/jdReptile/application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdReptile/getComment.py" beforeDir="false" afterPath="$PROJECT_DIR$/jdReptile/getComment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdReptile/worldCloudUtil.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,97 +24,121 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/jd$wordCloudUtil.coverage" NAME="wordCloudUtil Coverage Results" MODIFIED="1594221914477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdReptile" />
     <SUITE FILE_PATH="coverage/jd$mysqlHelper.coverage" NAME="mysqlHelper Coverage Results" MODIFIED="1593942211292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdReptile" />
     <SUITE FILE_PATH="coverage/jd$getComment.coverage" NAME="getComment Coverage Results" MODIFIED="1593948921004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdReptile" />
-    <SUITE FILE_PATH="coverage/jd$application.coverage" NAME="application Coverage Results" MODIFIED="1593995808819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdReptile" />
+    <SUITE FILE_PATH="coverage/jd$application.coverage" NAME="application Coverage Results" MODIFIED="1594222207844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdReptile" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="757036794">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="conf" value="1" />
           <entry key="csv" value="6" />
-          <entry key="py" value="10" />
+          <entry key="jpg" value="11" />
+          <entry key="png" value="1" />
+          <entry key="py" value="16" />
           <entry key="sql" value="2" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSV" value="6" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="10" />
+          <entry key="Image" value="12" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="16" />
           <entry key="SQL" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="csv" value="2" />
-          <entry key="py" value="2400" />
-          <entry key="txt" value="9" />
+          <entry key="dummy" value="4" />
+          <entry key="py" value="3684" />
+          <entry key="txt" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSV" value="2" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="2400" />
+          <entry key="PLAIN_TEXT" value="44" />
+          <entry key="Python" value="3684" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jdReptile/getComment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="192">
+              <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
               <folding>
-                <marker date="1593966744805" expanded="true" signature="382:1600" ph="..." />
-                <marker date="1593966744805" expanded="true" signature="1642:1647" ph="..." />
+                <element signature="e#38#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/wordcloud/wordcloud.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="309" column="26" selection-start-line="309" selection-start-column="17" selection-end-line="309" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdReptile/wordCloudUtil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+                <marker date="1594222157480" expanded="true" signature="299:1606" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/idolidea.sql">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jdReptile/headerUtil.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="48" column="18" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jdReptile/application.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+            <state relative-caret-position="372">
+              <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
-                <marker date="1593948094243" expanded="true" signature="537:925" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdReptile/wordCloudOut/有机.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdReptile/timg1.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jdReptile/mysqlHelper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
+            <state relative-caret-position="367">
               <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
               <folding>
                 <element signature="e#34#48#0" expanded="true" />
@@ -109,18 +148,6 @@
                 <marker date="1593946148830" expanded="true" signature="653:654" ph="..." />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jdReptile/skuData.csv">
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="1616">
-              <caret line="162" column="74" selection-start-line="162" selection-start-column="74" selection-end-line="162" selection-end-column="74" />
-            </state>
-          </provider>
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
         </entry>
       </file>
@@ -147,10 +174,13 @@
         <option value="$PROJECT_DIR$/config/skuData.csv" />
         <option value="$PROJECT_DIR$/jdReptile/mysqlHelper.py" />
         <option value="$PROJECT_DIR$/jdReptile/skuData.csv" />
-        <option value="$PROJECT_DIR$/jdReptile/application.py" />
         <option value="$PROJECT_DIR$/jdReptile/headerUtil.py" />
         <option value="$PROJECT_DIR$/jdReptile/worldCloudUtil.py" />
+        <option value="$PROJECT_DIR$/jdReptile/wordCloud.py" />
+        <option value="$PROJECT_DIR$/jdReptile/helloWC.txt" />
+        <option value="$PROJECT_DIR$/jdReptile/wordCloudUtil.py" />
         <option value="$PROJECT_DIR$/jdReptile/getComment.py" />
+        <option value="$PROJECT_DIR$/jdReptile/application.py" />
       </list>
     </option>
   </component>
@@ -160,11 +190,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="506" />
-    <option name="y" value="67" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="693" />
     <option name="width" value="1495" />
-    <option name="height" value="1105" />
+    <option name="height" value="1398" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -186,6 +215,12 @@
               <item name="jd" type="462c0819:PsiDirectoryNode" />
               <item name="jdReptile" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jd" type="462c0819:PsiDirectoryNode" />
+              <item name="jdReptile" type="462c0819:PsiDirectoryNode" />
+              <item name="wordCloudOut" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -202,8 +237,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\workspace\python\jd\config" />
       <recent name="D:\workspace\python\jd\jdReptile" />
+      <recent name="D:\workspace\python\jd\config" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,14 +320,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="wordCloudUtil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jdReptile" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jdReptile/wordCloudUtil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.getComment" />
       <item itemvalue="Python.mysqlHelper" />
       <item itemvalue="Python.application" />
+      <item itemvalue="Python.wordCloudUtil" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.application" />
+        <item itemvalue="Python.wordCloudUtil" />
         <item itemvalue="Python.getComment" />
         <item itemvalue="Python.mysqlHelper" />
       </list>
@@ -320,30 +379,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="405" y="54" width="1196" height="884" extended-state="0" />
+    <frame x="-7" y="-7" width="1742" height="1126" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27504393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19299288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32997987" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.50087875" side_tool="true" visible="true" weight="0.38031915" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49912128" weight="0.38031915" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49824253" visible="true" weight="0.37927565" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993964" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50175744" side_tool="true" weight="0.37931034" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32997987" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,9 +416,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="爬取数据完成" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jdReptile/demo1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/demo1.py" />
     <entry file="file://D:/itSoftware/python/Lib/site-packages/pymysql/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -367,19 +424,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/jd.conf">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/skuData.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="4032">
-          <caret line="168" lean-forward="true" selection-start-line="168" selection-end-line="168" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/config/jd.conf" />
+    <entry file="file://$PROJECT_DIR$/config/skuData.csv" />
     <entry file="file://D:/itSoftware/python/Lib/uuid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -394,25 +440,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jdReptile/comment.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+    <entry file="file://$PROJECT_DIR$/jdReptile/comment.csv" />
+    <entry file="file://$PROJECT_DIR$/jdReptile/worldCloudUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/headerUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="18" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jdReptile/skuData.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="1616">
+        <state relative-caret-position="3888">
           <caret line="162" column="74" selection-start-line="162" selection-start-column="74" selection-end-line="162" selection-end-column="74" />
         </state>
       </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/wordCloudUtil.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/helloWC.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jdReptile/mysqlHelper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
+        <state relative-caret-position="367">
           <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
           <folding>
             <element signature="e#34#48#0" expanded="true" />
@@ -424,47 +489,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jdReptile/worldCloudUtil.py">
+    <entry file="file://$PROJECT_DIR$/config/idolidea.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/milk.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/b.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/timg1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/true.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/有机.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/沛能.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/珍护.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/睿护.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/菁护.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/金领冠系列.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/wordcloud/wordcloud.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="268">
+          <caret line="309" column="26" selection-start-line="309" selection-start-column="17" selection-end-line="309" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jdReptile/headerUtil.py">
+    <entry file="file://$PROJECT_DIR$/jdReptile/wordCloudUtil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="48" column="18" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jdReptile/application.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        <state relative-caret-position="348">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
-            <marker date="1593948094243" expanded="true" signature="537:925" ph="..." />
+            <element signature="e#0#25#0" expanded="true" />
+            <marker date="1594222157480" expanded="true" signature="299:1606" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jdReptile/getComment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="192">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
           <folding>
-            <marker date="1593966744805" expanded="true" signature="382:1600" ph="..." />
-            <marker date="1593966744805" expanded="true" signature="1642:1647" ph="..." />
+            <element signature="e#38#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/idolidea.sql">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/jdReptile/wordCloudOut/有机.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdReptile/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

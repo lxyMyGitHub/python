@@ -2,6 +2,7 @@ import jdReptile.mysqlHelper as sqlHelper
 import csv
 import uuid
 import jdReptile.getComment as comment
+import jdReptile.wordCloudUtil as WCUtil
 def intiDictForMysql(initFlag):
     if initFlag == False : return
     typeMap = {
@@ -40,4 +41,7 @@ intiDictForMysql(False)
 # 初始化待爬数据
 skuDataInit(False)
 # 爬取&入库
-comment.reptileForMysql()
+comment.reptileForMysql(False)
+# 生成词云,保存到wordCloudOut路径下
+WCUtil.createWordCloud()
+print('the end')

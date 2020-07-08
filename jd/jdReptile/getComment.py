@@ -44,7 +44,8 @@ def getContentAndSave(sku,dictType,db,maxPageNum):
     db.commit()
 
 
-def reptileForMysql():
+def reptileForMysql(initFlag):
+    if initFlag : return
     maxPageNum = 30
     db = sqlHelper.getDB()
     sql = "select sku,dictType from skuData where status = 0"
