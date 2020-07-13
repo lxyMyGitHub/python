@@ -1,8 +1,14 @@
+# 导入mysql工具类 *
 import jdReptile.mysqlHelper as sqlHelper
 import csv
+# 随机数工具类
 import uuid
+# 导入爬虫工具类 *
 import jdReptile.getComment as comment
+# 导入词云工具类 *
 import jdReptile.wordCloudUtil as WCUtil
+
+# 初始化数据字典 False不初始化
 def intiDictForMysql(initFlag):
     if initFlag == False : return
     typeMap = {
@@ -18,7 +24,7 @@ def intiDictForMysql(initFlag):
     sqlHelper.closeDB(db)
     print("init Dictionary is successful")
 
-
+# 初始化待爬数据
 def skuDataInit(initFlag):
     if initFlag == False: return
     f = open('skuData.csv',encoding='utf-8')
@@ -35,13 +41,18 @@ def skuDataInit(initFlag):
 
 
 
+print('start')
 
 # 初始化数据字典
 intiDictForMysql(False)
+
 # 初始化待爬数据
 skuDataInit(False)
+
 # 爬取&入库
 comment.reptileForMysql(False)
+
 # 生成词云,保存到wordCloudOut路径下
 WCUtil.createWordCloud()
+WCUtil.createAllWordCloud()
 print('the end')
